@@ -52,6 +52,10 @@ The dataset contains **768 records** with the following features:
 7. Make predictions
 8. Evaluate model accuracy
 
+## Installation 
+
+- Download the files, import necessary packages and dataset
+
 ## Insights
 
 This project illustrates the effectiveness of SVM in medical diagnostics, demonstrating how health parameters can lead to accurate disease predictions.
